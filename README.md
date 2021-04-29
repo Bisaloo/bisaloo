@@ -1,6 +1,6 @@
 ### Hello world :wave:
 
-I'm Hugo Gruson. I'm primarily an Evolutionary Biologist but I fell in love with R and package development during my PhD. I am now a Research Software Engineer in Epidemiology and I can enjoy building tools to facilitate research of others.
+I'm Hugo Gruson \[[*ygo gʁyzɔ̃*](http://ipa-reader.xyz/?text=ygo%20g%CA%81yz%C9%94%CC%83&voice=Celine)\]. I'm primarily an Evolutionary Biologist but I fell in love with R and package development during my PhD. I am now a Research Software Engineer in Epidemiology and I can enjoy building tools to facilitate research of others.
 
 I'm particularly proud about the following R packages I'm maintaining or I've helped build:
 

@@ -21,3 +21,11 @@ I'm always super happy to receive feedback about my packages so feel free to get
 But I didn't get started with open-source development with R packages. My initial involvement in a community project was with [HTTPS Everywhere](https://github.com/EFForg/https-everywhere), a browser extension to force HTTPS connection to websites via a manually curated list of rewrite rules. I started as a happy user who wanted to increase the HTTPS coverage provided by the extension. I enjoyed the experience of collaborating to build something great together and continued contributing, until I eventually became one of the main contributors and then a ruleset maintainer.
 
 You can interact with me here on GitHub or on Twitter ([@grusonh](https://twitter.com/grusonh))!
+
+#### If I submitted a PR in one of your repository
+
+Below are some things to know if I submitted a PR in a repository:
+
+- my PRs are just suggestions. Feel free to request any amount of tweaks before merging or even to close them if you don't like my changes or if you can think of a better way to fix them.
+- in general, I prefer to be asked to tweak my changes myself rather than you directly editing on my branch. I think this provides better learning opportunities. However, if I left you the technical possibility to do it, it means you can go ahead if you think that's a better option
+- I usually try to re-organise my commits in a logical way before submitting a PR. Because of this, I strongly recommend you review my changes commit by commit. This will be much easier than reviewing all changes at once.

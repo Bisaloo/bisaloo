@@ -21,6 +21,8 @@ I'm always super happy to receive feedback about my packages so feel free to get
 
 But I didn't get started with open-source development with R packages. My initial involvement in a community project was with [HTTPS Everywhere](https://github.com/EFForg/https-everywhere), a browser extension to force HTTPS connection to websites via a manually curated list of rewrite rules. I started as a happy user who wanted to increase the HTTPS coverage provided by the extension. I enjoyed the experience of collaborating to build something great together and continued contributing, until I eventually became one of the main contributors and then a ruleset maintainer.
 
+During my free time, I also maintain important and understaffed pieces of open-source infrastructure, such as the [Software Carpentries lesson on "Programming with R"](https://swcarpentry.github.io/r-novice-inflammation), or the [CRAN Task View for Epidemiology](https://cran.r-project.org/view=Epidemiology).
+
 You can interact with me here on GitHub or on Twitter ([@grusonh](https://twitter.com/grusonh))!
 
 #### If I submitted a PR in one of your repository

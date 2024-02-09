@@ -23,7 +23,7 @@ But I didn't get started with open-source development with R packages. My initia
 
 During my free time, I also maintain important and understaffed pieces of open-source infrastructure, such as the [Software Carpentries lesson on "Programming with R"](https://swcarpentry.github.io/r-novice-inflammation), or the [CRAN Task View for Epidemiology](https://cran.r-project.org/view=Epidemiology).
 
-You can interact with me here on GitHub or on Twitter ([@grusonh](https://twitter.com/grusonh))!
+You can interact with me here on GitHub or on Mastodon ([@grusonh@mastodon.social](https://mastodon.social/@grusonh))!
 
 #### If I submitted a PR in one of your repository
 

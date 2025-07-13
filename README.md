@@ -13,6 +13,10 @@ I'm particularly proud about the following R packages I'm maintaining or I've he
 - [contactdata](https://github.com/bisaloo/contactdata): Social Contact Matrices for 152 Countries
 - [fundiversity](https://github.com/bisaloo/fundiversity)*: Easy Computation of Alpha Functional Diversity Indices
 - [cransays](https://github.com/r-hub/cransays)*: Creates an Overview of CRAN Incoming Submissions
+- [xlcutter](https://github.com/Bisaloo/xlcutter): Parse Batches of xlsx Files Based on a Template
+- [authoritative](https://github.com/epiverse-connect/authoritative): Extract R package authors and deduplicate names in database,
+    beyond the specific case of R package authors.
+- [linelist](https://github.com/epiverse-trace/linelist)\*: Handle patient-level data for infectious disease outbreaks.
 
 (* collaborative projects. Please check the full list of authors!)
 

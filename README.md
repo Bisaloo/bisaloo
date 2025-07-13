@@ -11,7 +11,6 @@ I'm particularly proud about the following R packages I'm maintaining or I've he
   'SHERPA/RoMEO' API
 - [mcmcensemble](https://github.com/bisaloo/mcmcensemble)*: Ensemble Sampler for Affine-Invariant MCMC
 - [contactdata](https://github.com/bisaloo/contactdata): Social Contact Matrices for 152 Countries
-- [asymptor](https://github.com/bisaloo/asymptor): Estimate Asymptomatic Cases via Capture/Recapture Methods
 - [fundiversity](https://github.com/bisaloo/fundiversity)*: Easy Computation of Alpha Functional Diversity Indices
 - [cransays](https://github.com/r-hub/cransays)*: Creates an Overview of CRAN Incoming Submissions
 
